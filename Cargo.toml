@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_linux_linux_from_scratch"
+version = "0.1.0"
+edition = "2021"
+description = "Linux From Scratch toolchain bootstrapping and pristine source build orchestration"
+
+[lib]
+name = "sigmaos_linux_linux_from_scratch"
+path = "src/lib.rs"
