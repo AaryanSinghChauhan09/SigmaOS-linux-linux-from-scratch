@@ -3,7 +3,7 @@ name = "SigmaOS-linux-linux-from-scratch"
 tier = 3
 stability = "stable"
 language = "rust"
-description = "Linux From Scratch toolchain bootstrapping and pristine source build orchestration"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
